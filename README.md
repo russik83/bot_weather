@@ -24,7 +24,7 @@ api_token = 'Ключ сайта'
 ## Применение
 
 1. Нажимаем кнопку СТАРТ
-![photo_2020-09-04_20-51-07](https://user-images.githubusercontent.com/61093151/92274643-4d08a880-eef6-11ea-92c1-fbec72681630.jpg )
+![photo_2020-09-04_20-51-07](https://user-images.githubusercontent.com/61093151/92274643-4d08a880-eef6-11ea-92c1-fbec72681630.jpg=x100 )
 2. Кнопка ПОГОДА
 ![photo_2020-09-04_20-51-34_LI](https://user-images.githubusercontent.com/61093151/92275937-c2757880-eef8-11ea-9c16-7c86332f9780.jpg)
 3.Указываем город 
