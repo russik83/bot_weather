@@ -26,10 +26,8 @@ api_token = 'Ключ сайта'
 1. Нажимаем кнопку СТАРТ
 ![](https://user-images.githubusercontent.com/61093151/92274643-4d08a880-eef6-11ea-92c1-fbec72681630.jpg=x100 )
 2. Кнопка ПОГОДА
-![photo_2020-09-04_20-51-34_LI](https://user-images.githubusercontent.com/61093151/92275937-c2757880-eef8-11ea-9c16-7c86332f9780.jpg)
+![](https://user-images.githubusercontent.com/61093151/92275937-c2757880-eef8-11ea-9c16-7c86332f9780.jpg)
 3.Указываем город 
-![photo_2020-09-04_20-51-41_LI](https://user-images.githubusercontent.com/61093151/92277347-652ef680-eefb-11ea-8197-98c37e000a68.jpg)
+![](https://user-images.githubusercontent.com/61093151/92277347-652ef680-eefb-11ea-8197-98c37e000a68.jpg)
 4.Получаем прогноз погоды
-
-
-![photo_2020-09-04_20-52-11_LI](https://user-images.githubusercontent.com/61093151/92277087-e3d76400-eefa-11ea-921a-b8bb7b011e45.jpg)
+![](https://user-images.githubusercontent.com/61093151/92277087-e3d76400-eefa-11ea-921a-b8bb7b011e45.jpg)
