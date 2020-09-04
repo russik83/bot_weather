@@ -30,4 +30,6 @@ api_token = 'Ключ сайта'
 3.Указываем город 
 ![photo_2020-09-04_20-51-41](https://user-images.githubusercontent.com/61093151/92276112-0e282200-eef9-11ea-9ff6-5cc2226c6082.jpg)
 4.Получаем прогноз погоды
-![photo_2020-09-04_20-52-11](https://user-images.githubusercontent.com/61093151/92276201-34e65880-eef9-11ea-9d2a-1fb6560e5137.jpg)
+
+
+![photo_2020-09-04_20-52-11_LI](https://user-images.githubusercontent.com/61093151/92277087-e3d76400-eefa-11ea-921a-b8bb7b011e45.jpg)
