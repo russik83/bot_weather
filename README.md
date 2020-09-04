@@ -24,12 +24,12 @@ api_token = 'Ключ сайта'
 ## Применение
 
 
-1. Нажимаем кнопку СТАРТ
+1.Нажимаем кнопку СТАРТ
 ===============
 
 <img src="https://user-images.githubusercontent.com/61093151/92274643-4d08a880-eef6-11ea-92c1-fbec72681630.jpg" width=300>
 
-2. Кнопка ПОГОДА
+2.Кнопка ПОГОДА
 ===============
 
 <img src="https://user-images.githubusercontent.com/61093151/92275937-c2757880-eef8-11ea-9c16-7c86332f9780.jpg" width=300>
