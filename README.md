@@ -28,7 +28,7 @@ api_token = 'Ключ сайта'
 2. Кнопка ПОГОДА
 ![photo_2020-09-04_20-51-34_LI](https://user-images.githubusercontent.com/61093151/92275937-c2757880-eef8-11ea-9c16-7c86332f9780.jpg)
 3.Указываем город 
-![photo_2020-09-04_20-51-41](https://user-images.githubusercontent.com/61093151/92276112-0e282200-eef9-11ea-9ff6-5cc2226c6082.jpg)
+![photo_2020-09-04_20-51-41_LI](https://user-images.githubusercontent.com/61093151/92277347-652ef680-eefb-11ea-8197-98c37e000a68.jpg)
 4.Получаем прогноз погоды
 
 
