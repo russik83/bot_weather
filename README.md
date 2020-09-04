@@ -24,10 +24,10 @@ api_token = 'Ключ сайта'
 ## Применение
 
 1. Нажимаем кнопку СТАРТ
-![](https://user-images.githubusercontent.com/61093151/92274643-4d08a880-eef6-11ea-92c1-fbec72681630.jpg=x50 )
+<img src="https://user-images.githubusercontent.com/61093151/92274643-4d08a880-eef6-11ea-92c1-fbec72681630.jpg" width=100>
 2. Кнопка ПОГОДА
-![](https://user-images.githubusercontent.com/61093151/92275937-c2757880-eef8-11ea-9c16-7c86332f9780.jpg)
+<img src="https://user-images.githubusercontent.com/61093151/92275937-c2757880-eef8-11ea-9c16-7c86332f9780.jpg" width=100>
 3.Указываем город 
-![](https://user-images.githubusercontent.com/61093151/92277347-652ef680-eefb-11ea-8197-98c37e000a68.jpg)
+<img src="https://user-images.githubusercontent.com/61093151/92277347-652ef680-eefb-11ea-8197-98c37e000a68.jpg" width=100>
 4.Получаем прогноз погоды
-![](https://user-images.githubusercontent.com/61093151/92277087-e3d76400-eefa-11ea-921a-b8bb7b011e45.jpg)
+<img src="https://user-images.githubusercontent.com/61093151/92277087-e3d76400-eefa-11ea-921a-b8bb7b011e45.jpg" width=100>
