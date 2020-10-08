@@ -3,7 +3,7 @@ import logging
 from telegram.ext import Updater, CommandHandler, MessageHandler, Filters, ConversationHandler
 from config import TOKEN
 
-from handlers import start, weather, get_weather, cancel
+from handlers import start, weather, weather_daily, get_weather, get_weather_daily, cancel
 
 
 logging.basicConfig(
@@ -13,6 +13,7 @@ logging.basicConfig(
 )
 
 WEATHER = 1
+WEATHER_DAILY = 2
 
 
 def main():
@@ -21,17 +22,25 @@ def main():
 
     conv_weather = ConversationHandler(
         entry_points=[CommandHandler('get_weather', get_weather),
-            (MessageHandler(Filters.regex('^(погода)$'), get_weather))],
+            (MessageHandler(Filters.regex('^(погода сейчас)$'), get_weather))],
         states={
             WEATHER:[MessageHandler(Filters.regex(r'^\w+$'), weather)]
         },
         fallbacks=[MessageHandler(Filters.text, cancel)]
     )
 
+    conv_weather_daily = ConversationHandler(
+        entry_points=[CommandHandler('get_weather_daily', get_weather_daily),
+            (MessageHandler(Filters.regex('^(24 часа)$'), get_weather_daily))],
+        states={
+            WEATHER_DAILY:[MessageHandler(Filters.regex(r'^\w+$'), weather_daily)]
+        },
+        fallbacks=[MessageHandler(Filters.text, cancel)]
+    )
+
     dp.add_handler(conv_weather)
+    dp.add_handler(conv_weather_daily)
     dp.add_handler(CommandHandler('start', start))
-    dp.add_handler(MessageHandler(Filters.regex('^(погода)$'), get_weather))
-    dp.add_handler(MessageHandler(Filters.text, weather))
 
     logging.info('Bot is run')
 
